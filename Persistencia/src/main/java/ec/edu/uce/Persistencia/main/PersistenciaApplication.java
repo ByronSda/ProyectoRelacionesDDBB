@@ -1,5 +1,10 @@
 package ec.edu.uce.Persistencia.main;
 
+/**
+ * @author: Byron Flores
+ * @Theme: Anotaciones de relaciones de entidades
+ */
+
 import ec.edu.uce.Persistencia.controller.CustomerController;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
