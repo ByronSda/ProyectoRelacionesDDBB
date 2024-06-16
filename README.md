@@ -31,6 +31,9 @@ Este proyecto es una aplicación de ejemplo que gestiona clientes, vendedores, v
 ### ManyToOne
 - **Sale** tiene una relación muchos a uno con **Seller** y **Customer**.
 
+### ManyToMany
+- **Car** tiene una relación muchos a muchos con **Sale**.
+
 ## Funcionalidad
 
 ### Gestión de Clientes
@@ -51,3 +54,4 @@ Para ejecutar el proyecto, se puede utilizar la clase `PersistenciaApplication`,
 
 ```sh
 mvn spring-boot:run
+
