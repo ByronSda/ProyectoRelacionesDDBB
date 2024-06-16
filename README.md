@@ -2,7 +2,7 @@
 
 # Proyecto de Persistencia en Spring Boot
 
-Este proyecto es una aplicación de ejemplo que gestiona clientes, vendedores, ventas, autos y direcciones utilizando Spring Boot y Spring Data JPA para la persistencia de datos.
+Este proyecto es una aplicación de ejemplo una concesionaria que gestiona clientes, vendedores, ventas, autos y direcciones utilizando Spring Boot y Spring Data JPA para la persistencia de datos.
 
 ## Tecnologías Utilizadas
 
